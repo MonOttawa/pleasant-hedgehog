@@ -13,6 +13,12 @@
         "url": "/"
       },
       {
+        "new_window": false,
+        "type": "action",
+        "label": "Testing",
+        "url": "/testing"
+      },
+      {
         "type": "action",
         "label": "Features",
         "url": "/features"
@@ -31,13 +37,8 @@
         "type": "action",
         "label": "Sign Up",
         "url": "/signup",
-        "primary": true
-      },
-      {
-        "new_window": true,
-        "type": "action",
-        "label": "Testing",
-        "url": "/testing"
+        "primary": true,
+        "new_window": false
       }
     ]
   },
