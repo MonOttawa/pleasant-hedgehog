@@ -9,5 +9,8 @@ sections:
     features:
       - type: feature_item
         title: test
+  - type: section_faq
+    background: gray
+    title: faq
 template: landing
 ---
